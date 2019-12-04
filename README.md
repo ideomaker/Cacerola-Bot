@@ -1,2 +1,2 @@
-# Cacerola-Bot-Ideo-Maker
+# Cacerola-Bot
 Cacerola Bot usando Arduino - Creado por Ideo Maker
