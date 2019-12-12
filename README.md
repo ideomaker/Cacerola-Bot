@@ -6,6 +6,9 @@ Cacerola Bot usando Arduino - Creado por Ideo Maker
 
 <img src="https://github.com/ideomaker/Cacerola-Bot/blob/master/img/cacerola-gif.gif" />
 
+![](https://wiki.wemos.cc/_media/products:d1:d1_mini_v3.0.0_1_16x9.jpg)
+
+
 Código:
 
 ```C++
