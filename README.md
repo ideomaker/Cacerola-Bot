@@ -11,8 +11,8 @@ Código:
 ```C++
 /*
 Codigo CacerolaBot
-
-Ideo Maker
+Creado por Ideo Maker
+www.ideomaker.cl
 */
 
 #include <Servo.h> // Libreria Servo
@@ -42,7 +42,7 @@ motor1.write (grados1);
 delay(420); //Tiempo de Espera
 
 //Golpe 3
-grados1 = 23; //Grados Servo
+grados1 = 20; //Grados Servo
 motor1.write (grados1);
 delay(150); //Tiempo de Espera
 grados1 = 0; //Grados Servo
@@ -50,7 +50,7 @@ motor1.write (grados1);
 delay(100); //Tiempo de Espera
 
 //Golpe 4
-grados1 = 23; //Grados Servo
+grados1 = 20; //Grados Servo
 motor1.write (grados1);
 delay(150); //Tiempo de Espera
 grados1 = 0; //Grados Servo
@@ -58,7 +58,7 @@ motor1.write (grados1);
 delay(100); //Tiempo de Espera
 
 //Golpe 5
-grados1 = 23; //Grados Servo
+grados1 = 20; //Grados Servo
 motor1.write (grados1);
 delay(150); //Tiempo de Espera
 grados1 = 0; //Grados Servo
