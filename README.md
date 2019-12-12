@@ -1,2 +1,4 @@
 # Cacerola-Bot
 Cacerola Bot usando Arduino - Creado por Ideo Maker
+
+<img src="https://camo.githubusercontent.com/7394a89c7b4f4e19dd4d7249581f387c69680eeb/68747470733a2f2f77696b692e77656d6f732e63632f5f6d656469612f70726f64756374733a64313a64315f6d696e695f76332e302e305f315f313678392e6a7067"/>
